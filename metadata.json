@@ -1,0 +1,5 @@
+{
+  "name": "Hexa AI Assistant",
+  "description": "An AI-powered sidebar assistant for your browser. Select text to ask questions, or chat with it directly about anything, including the content of your screen.",
+  "requestFramePermissions": []
+}

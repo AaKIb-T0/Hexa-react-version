@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Hexa v2 (Corrected)",
+  "version": "1.0",
+  "description": "AI Assistant",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "action": {
+    "default_title": "Start Hexa"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
